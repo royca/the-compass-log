@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://royca.github.io/the-compass-log/sitemap.xml

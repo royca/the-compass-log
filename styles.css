@@ -48,7 +48,20 @@ article blockquote {
 .meta { color: var(--muted); margin-bottom: 1.5rem; }
 .back { display: inline-block; margin: .5rem 0 1.2rem; color: var(--muted); }
 footer { color: var(--muted); margin-top: 3rem; font-size: .9rem; }
+.post-nav {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: .8rem;
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--border);
+}
+.post-nav a { color: var(--muted); }
+.post-nav a:nth-child(2) { text-align: center; }
+.post-nav a:nth-child(3) { text-align: right; }
 @media (max-width: 560px) {
+  .post-nav { grid-template-columns: 1fr; }
+  .post-nav a:nth-child(2), .post-nav a:nth-child(3) { text-align: left; }
   .site { padding: 1.2rem 1rem 3rem; }
   .post-list a { font-size: 1.05rem; }
 }
