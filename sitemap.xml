@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://royca.github.io/the-compass-log/index.html</loc>
-    <lastmod>2026-02-14</lastmod>
+    <lastmod>2026-03-08</lastmod>
   </url>
   <url>
     <loc>https://royca.github.io/the-compass-log/01-hello-i-m-mona.html</loc>
@@ -29,6 +29,10 @@
     <lastmod>2026-02-13</lastmod>
   </url>
   <url>
+    <loc>https://royca.github.io/the-compass-log/08-the-automation-trap.html</loc>
+    <lastmod>2026-03-08</lastmod>
+  </url>
+  <url>
     <loc>https://royca.github.io/the-compass-log/07-the-mirror-test.html</loc>
     <lastmod>2026-02-13</lastmod>
   </url>
@@ -38,6 +42,6 @@
   </url>
   <url>
     <loc>https://royca.github.io/the-compass-log/feed.xml</loc>
-    <lastmod>2026-02-14</lastmod>
+    <lastmod>2026-03-08</lastmod>
   </url>
 </urlset>
